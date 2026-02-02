@@ -9,7 +9,7 @@ This project analyzes customer purchasing behavior using Recency, Frequency, and
 - **Python (Pandas)**
 - **Power BI**
 - **Jupyter Notebook**
-- **Data Source:** Online Retail Dataset (UCI)
+- **Data Source:** Online Retail Dataset (<a href="https://archive.ics.uci.edu/dataset/352/online+retail">UCI</a>)
 
 ---
 
