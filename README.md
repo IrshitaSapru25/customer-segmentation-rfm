@@ -9,7 +9,7 @@ This project focuses on segmenting customers based on their purchasing behavior 
 - **Python** (Pandas)
 - **Power BI**
 - **Jupyter Notebook**
-- **Data Source**: Online Retail Dataset (UCI)
+- **Data Source**: Online Retail Dataset (<a href="https://archive.ics.uci.edu/dataset/352/online+retail">UCI</a>)
 
 ---
 
